@@ -1,0 +1,7 @@
+telethon
+aiogram
+openai
+aiosqlite
+python-dotenv
+apscheduler
+cryptography
